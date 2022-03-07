@@ -1,5 +1,5 @@
 {
-  "name": "TechnicalInterview",
+  "name": "EasyGamesTechnicalInterview",
   "tree": {
     "$className": "DataModel",
 
@@ -22,7 +22,7 @@
         }
       }
     },
-	
+
     "Lighting": {
       "$properties": {
         "Ambient": [
@@ -36,6 +36,7 @@
         "Technology": "Voxel"
       }
     },
+
     "SoundService": {
       "$properties": {
         "RespectFilteringEnabled": true
